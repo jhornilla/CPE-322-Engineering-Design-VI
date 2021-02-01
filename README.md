@@ -1,5 +1,5 @@
 # CPE 322: Engineering Design VI Repo
-Contains the following:
+Contains code for the following:
 * Lab 
 * Final Project
 * Extra Contributions
