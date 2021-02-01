@@ -2,4 +2,4 @@
 Contains the following:
 * Lab 
 * Final Project
-*Extra Contributions
+* Extra Contributions
