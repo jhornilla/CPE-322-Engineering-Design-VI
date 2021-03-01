@@ -1,4 +1,4 @@
-# 314 (or so) Awesome Raspberry Pi Resources
+# 314 (or so) Awesome Raspberry Pi Resources by Grant Twinney
 
 I had this ambitious idea on Pi Day to see if I could come up with 314 awesome <people, companies, projects, books, etc> for learning about and building with the Raspberry Pi. I mean, any search on Google turns up 314 *million* results, so surely I could come up with the best of the best right? :smirk:
 
